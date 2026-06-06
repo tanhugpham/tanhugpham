@@ -2,10 +2,8 @@
 
 I'm Pham Tan Hung.
 
-🚀 Frontend / AI Developer  
-💻 Building AI chatbot projects with Next.js & TypeScript  
-🧠 Learning AI Agent & MCP-inspired architecture  
-🎯 Interested in AI Applications, Frontend, and Fullstack Development
+🚀 Frontend  
+
 
 ---
 
